@@ -1,4 +1,3 @@
-**Internship project title**
 
 **FORECASTING SYSTEM: Project demand of products at retail outlet based on historical data**
 
