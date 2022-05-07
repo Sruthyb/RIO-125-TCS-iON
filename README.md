@@ -6,7 +6,7 @@ This is a project work done at TCS-iON as part of RIO-125 virtual internship fro
 **Description**:
 
 Aim of this project is to forecast demand of products at a retail store based on their historical sales data.
-Here a forecasting system is created with the help of time series model ARIMA (AutoRegressive Integrated Moving Average) and Fbprophet Library.
+Here a forecasting system is created with the help of time series models ARIMA, SARIMA and Fbprophet Library.
 
 **Requirements:**
   - Python
@@ -27,4 +27,5 @@ Here a forecasting system is created with the help of time series model ARIMA (A
 https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
 **Link to code:** 
-https://drive.google.com/drive/folders/1R3XRFqQJsk2OaCsHnZ2XbABtqqAxJItx?usp=sharing
+https://drive.google.com/file/d/1V5czGqmmbTNAujEt0o5bpzEKbXrF1W-S/view?usp=sharing
+
