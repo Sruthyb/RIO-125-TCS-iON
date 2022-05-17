@@ -2,8 +2,6 @@
 
 ## **Forecasting System: Project demand of products at retail outlet based on historical data**
 
-This is a project work done at TCS-iON as part of RIO-125 virtual internship from 11/04/2022 to 10/05/2022.
-
 ### **Description**:
 
 Aim of this project is to forecast demand of products at a retail store based on their past data.
