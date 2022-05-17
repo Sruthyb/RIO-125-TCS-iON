@@ -1,6 +1,6 @@
 ### **Project Title:**
 
-### **Forecasting System: Project demand of products at retail outlet based on historical data**
+## **Forecasting System: Project demand of products at retail outlet based on historical data**
 
 #### **Description**:
 
